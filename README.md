@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Tafsiruzzaman</h1>
-<h3 align="center">Aspiring Software Engineer | Competitive Programmer</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Tafsiruzzaman</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tafsiruzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -27,8 +26,8 @@
 
 - 🎓 **CSE Undergrad** at East West University
 - 🏆 **2200+ problems solved** across LeetCode, Codeforces, CodeChef
-- 🏅 **2x ICPC Regionalist** | **Meta Hacker Cup** Round 2 | Multiple contest Champion
-- 🤖 Enthusiastic about **Machine Learning & AI** — exploring projects on Kaggle & Colab
+- 🏅 **3x ICPC Regionalist** | **Meta Hacker Cup** Round 2 | Multiple contest Champion
+- 🤖 Enthusiastic about **Machine Learning & AI**, exploring projects on Kaggle & Colab
 - 🤝 Eager to explore the world of software engineering and contribute to impactful projects
 
 ---
